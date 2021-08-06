@@ -25,7 +25,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 // Your answer and explanation here:
 /*
 We're going to get a string as a result. The string will be `My zoo has 7 unicorns!`
-We're getting this data type because we're injecting the value of numberOfCreatures and creatures
+We're getting this data type because we're injecting the value of 'numberOfCreatures' and 'creatures'
 to the sting being logged, and because we're using interpolation we don't need to use the + sign
 to add all the data types together.
 */

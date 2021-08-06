@@ -16,11 +16,11 @@ console.log(`"Hello World!"`);
 4. What is/are the character(s) you would use to indicate comments in a JavaScript file? What is the purpose of a code comment?
 // two backslashes are used to write a single line comments
 /* a backlash and an asterisk are used to write multiple line comments and you close the comments with the asterisk first and the backslash at the end as such */
-Comments are used to add information in the code you wrote for other developers to understand what is going on with that code. Comments are written in plain english or in our written spoken language. Comment are also used to de-activate parts of our code.
+Comments are used to add information in the code you wrote for other developers to understand what is going on with that code. Comments are written in plain english or in our written/spoken language. Comment are also used to de-activate parts of our code.
 
 
 5. In your own words, what is a variable? How would you explain it to a 5 year old?
-A variable is the name to a value. Or you can say it's used to store information that can be re-used. You declare a variable by using the keyword var followed by the name, the assignment operator, and lastly its value.
+A variable is used to store information that can be re-used. You declare a variable by using the keyword `var` followed by the name you wanna give to it , the equal sign, and lastly what you want to store in there.
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
 I love traveling so Airbnb is definitely an app that i frequently use. These are some of the variables I imagine are used:
