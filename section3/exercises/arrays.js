@@ -31,7 +31,7 @@ console.log(animals.length);
 animals.push("Gorilla");
 console.log(animals);
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-animals.push("Panther");
+animals[3] = ("Panther");
 console.log(animals)
 // YOU DO: Write code that will log the String "Elephant" in the animals array
 console.log(animals[2]);
