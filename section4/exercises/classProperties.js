@@ -53,8 +53,8 @@ console.log(bananaRepublic);
 
 // Prompt 1: Dog
 class Pug {
-constructor(nickName, color, inches) {
-  this.name = nickName;
+constructor(name, color, inches) {
+  this.name = name;
   this.fur = color;
   this.size = inches;
  }
@@ -95,7 +95,7 @@ console.log(gymshark);
 
 // Prompt 1: Dog
 class Dog {
-  constructor(name, lbs, color) {
+  constructor(breed, lbs, color) {
     this.breed = breed;
     this.weight = lbs;
     this.fur = color;
@@ -107,7 +107,7 @@ var scooby = new Dog("Shar Pei", 32, "Brown");
 console.log(scooby)
 // Prompt 2: Snack
 class Snack {
-  constructor(name, amt, grams) {
+  constructor(brand, calories, grams) {
     this.brand = brand;
     this.calories = calories;
     this.sugar = grams;

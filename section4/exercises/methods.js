@@ -27,3 +27,4 @@ var lunchOrder = {
 console.log(lunchOrder);
 
 lunchOrder.complete();
+lunchOrder.prepare();
